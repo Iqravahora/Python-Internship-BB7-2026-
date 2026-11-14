@@ -1,0 +1,1 @@
+print("My name is Iqra","I am 20 years old","I am from India","my favorite programming language is python")
